@@ -13,14 +13,14 @@
   <CanvasApps>
     <CanvasApp>
       <Name>mg_snaek_012f4</Name>
-      <AppVersion>2022-04-14T23:55:51Z</AppVersion>
+      <AppVersion>2022-04-18T06:43:29Z</AppVersion>
       <Status>Ready</Status>
       <CreatedByClientVersion>3.22041.27.0</CreatedByClientVersion>
       <MinClientVersion>3.22041.27.0</MinClientVersion>
-      <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22041.27","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20220414T235551Z-3.22041.27.0"}</Tags>
+      <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22041.27","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20220418T064209Z-3.22041.27.0"}</Tags>
       <IsCdsUpgraded>0</IsCdsUpgraded>
       <GalleryItemId xsi:nil="true"></GalleryItemId>
-      <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+      <BackgroundColor>rgba(255, 0, 255, 1)</BackgroundColor>
       <DisplayName>Snake</DisplayName>
       <Description xsi:nil="true"></Description>
       <CommitMessage xsi:nil="true"></CommitMessage>
@@ -30,7 +30,7 @@
       <DatabaseReferences>{}</DatabaseReferences>
       <AppComponents>[]</AppComponents>
       <AppComponentDependencies>[]</AppComponentDependencies>
-      <CanConsumeAppPass>1</CanConsumeAppPass>
+      <CanConsumeAppPass>0</CanConsumeAppPass>
       <CanvasAppType>0</CanvasAppType>
       <BypassConsent>0</BypassConsent>
       <AdminControlBypassConsent>0</AdminControlBypassConsent>
