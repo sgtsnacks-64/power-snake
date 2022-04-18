@@ -48,8 +48,8 @@ Likewise:
 
 To check Top and Bottom, we ensure the next move won't take the player's 1st block either:
 
-+ < 0
-+ > 99
+< 0
+> 99
 
 
 
